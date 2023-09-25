@@ -1,0 +1,11 @@
+.totalTaken {
+  display: flex;
+  justify-content: space-between;
+}
+.final-box {
+  margin-top: 100px;
+}
+.size {
+  height: 285px;
+  overflow: scroll;
+}
