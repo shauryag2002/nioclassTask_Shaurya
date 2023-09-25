@@ -48,7 +48,9 @@ const Final = () => {
   }, []);
   return (
     <div className="final">
-      <h1 className="text-5xl mx-auto text-center my-8">Maths Assignment</h1>
+      <h1 className="text-5xl mx-auto text-center my-8 heading">
+        Maths Assignment
+      </h1>
       <div className="flex items-center justify-center final-box">
         <div className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4  ">
           <div className="mb-4">

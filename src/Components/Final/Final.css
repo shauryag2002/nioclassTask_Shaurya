@@ -3,9 +3,14 @@
   justify-content: space-between;
 }
 .final-box {
-  margin-top: 100px;
+  margin-top: 41px;
 }
 .size {
   height: 285px;
   overflow: scroll;
+}
+@media screen and (max-width: 768px) {
+  .heading {
+    font-size: 2rem;
+  }
 }

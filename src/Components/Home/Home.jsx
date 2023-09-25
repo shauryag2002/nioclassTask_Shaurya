@@ -144,7 +144,9 @@ const Home = () => {
         />
       </div>
       <div className="main bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
-        <h1 className="text-5xl mx-auto text-center my-8">Maths Assignment</h1>
+        <h1 className="text-5xl mx-auto text-center my-8 text-heading">
+          Maths Assignment
+        </h1>
         <div className="username">
           <label htmlFor="username" className="username-label">
             Name

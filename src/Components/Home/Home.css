@@ -56,3 +56,14 @@
 .color-bg:hover {
   background-color: #bc4c06;
 }
+@media screen and (max-width: 800px) {
+  .mathPhoto {
+    display: none;
+  }
+  .main {
+    margin: 40px;
+  }
+  .text-heading {
+    font-size: 1.7rem;
+  }
+}
