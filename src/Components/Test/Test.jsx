@@ -155,7 +155,9 @@ const Test = () => {
             </span>
           </div>
           <div className="question-box">
-            <MathJax>{ques[0]}</MathJax>
+            <MathJax inline dynamic>
+              {ques[0]}
+            </MathJax>
           </div>
           <div className="navigation">
             <button
